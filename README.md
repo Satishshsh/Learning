@@ -1,2 +1,3 @@
 # Learning
-This for learninf
+This for learning
+ autor Satish-singh
